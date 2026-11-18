@@ -1,0 +1,1 @@
+# assets_inventory_frontend
